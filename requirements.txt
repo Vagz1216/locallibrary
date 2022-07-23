@@ -1,4 +1,4 @@
-asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
+
 certifi==2022.5.18.1
 dj-database-url==0.5.0
 Django @ file:///tmp/build/80754af9/django_1625585912945/work
